@@ -1,0 +1,22 @@
+== Resources
+
+
+
+
+Apache Mina provides a NIO based Server Design Framework in Java.
+
+https://mina.apache.org/[Apache Mina]
+
+=== Maven
+Maven a build and distribution system for publishing of project and enables sharing JARs across several projects.
+
+https://maven.apache.org/index.html[Apache Maven]
+
+http://search.maven.org/[Maven Search]
+
+=== OSGi
+OSGi provides a modular architecture for Java applications.
+
+https://www.osgi.org/developer/[OSGi]
+
+http://enroute.osgi.org/doc/090-modularity[OSGi Introduction]
