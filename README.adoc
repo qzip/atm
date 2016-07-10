@@ -1,0 +1,15 @@
+= Qzip ISO8583 Protocol based NPCI IMPS PPI Wallet Integration
+
+*WORK IN PROGRESS*
+
+Presently in Bootstrapping Stage.
+
+== Milestones
+
+=== Milestone 0
+
+.M0S1: Milestone 0 Sprint 1
+* Added OSGi & Maven Hooks
+* Copied source files from https://github.com/innomon/iso8583[innomon ISO8583] and https://github.com/innomon/upay[UPAY]
+
+
